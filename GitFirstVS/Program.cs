@@ -10,6 +10,7 @@ namespace GitFirstVS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет");
         }
     }
 }
