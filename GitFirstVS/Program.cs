@@ -8,9 +8,6 @@ namespace GitFirstVS
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Привет");
-        }
+        static void Main(string[] args) => Console.WriteLine("Привет");
     }
 }
